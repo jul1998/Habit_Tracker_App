@@ -1,0 +1,9 @@
+{
+    "GraphTest1": {
+        "id": "grapht123",
+        "graph_name": "GraphTest1",
+        "unit": "Day",
+        "type": "int",
+        "color": "sora"
+    }
+}
